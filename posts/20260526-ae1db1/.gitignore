@@ -1,0 +1,8 @@
+post*.html
+*.jpg
+*.jpeg
+*.png
+*.tif
+*.tiff
+*.bak
+*.bak-*
